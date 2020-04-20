@@ -1,6 +1,6 @@
 {
   "name": "package-b",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "lindayangxiaofeng <lindayangxiaofeng@didiglobal.com>",
   "homepage": "https://github.com/flylinda/lerna#readme",
@@ -24,6 +24,6 @@
     "url": "https://github.com/flylinda/lerna/issues"
   },
   "dependencies": {
-    "package-a": "^0.0.0"
+    "package-a": "^0.0.1"
   }
 }
